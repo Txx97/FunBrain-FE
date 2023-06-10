@@ -36,3 +36,29 @@ button {
   padding: 0.5rem 1rem;
   font-weight: bold;
 }
+
+.navbar-brand{
+  color: #5f2167!important;
+  max-width: 95%;
+  font-family: Caveat,Helvetica,Arial,sans-serif;
+  font-size: 38px !important;
+  line-height: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.breadcrumb{
+  font-size: 25px !important;
+  
+}
+.card{
+  color: royalblue !important;
+  background-color:rgb(207 229 222) !important;
+}
+.text-center{
+  color: #5f2167 !important;
+}
+.btn1{
+  display: flex !important;
+     margin-left: 695px;
+     margin-top: 20px;
+}

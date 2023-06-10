@@ -14,13 +14,14 @@ export const Navbar = (props) => {
           }}
         >
           <img
-            src="/favicon.ico"
+            src="https://www.vhv.rs/dpng/d/569-5693201_cartoon-brain-png-cute-brain-clipart-transparent-png.png"
             alt="Logo"
-            width="30"
-            height="24"
+            width="80"
+            height="80"
             className="d-inline-block align-text-top"
           />
-          FunBrain
+          {/* <i class="fa-duotone fa-brain"></i> */}
+          FunBrains
         </a>
       </div>
     </nav>
